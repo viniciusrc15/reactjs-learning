@@ -17,6 +17,17 @@ line-height: 24px;
 margin-top: 5px;
 }
 
+a.back{
+    display: block;
+    text-align: center;
+    padding: 5px;
+    text-decoration: none;
+}
+
+a.back:hover{
+    color: #da552f;
+}
+
 .product-info p a {
     color: #069;
 }
